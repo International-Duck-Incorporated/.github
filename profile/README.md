@@ -1,5 +1,3 @@
-![International Duck Incorporated](https://gitlab.com/international-duck-incorporated/idi-assets/-/raw/main/assets/IDI%20icon%20spinoffs/circular-transparent.png)
-
 # International Duck Incorporated
 
 **Open source. Built in the open.**
