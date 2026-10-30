@@ -1,9 +1,3 @@
-<table>
-  <tr>
-      <img src="https://gitlab.com/international-duck-incorporated/idi-assets/-/raw/main/assets/IDI%20icon%20spinoffs/circular-transparent.png" alt="IDI logo" width="120">
-  </tr>
-</table>
-
 # International Duck Incorporated
 
 **Open source. Built in the open.**
