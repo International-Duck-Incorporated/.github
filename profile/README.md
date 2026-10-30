@@ -1,8 +1,6 @@
 <table>
   <tr>
-    <td width="150" align="center" valign="middle">
       <img src="https://gitlab.com/international-duck-incorporated/idi-assets/-/raw/main/assets/IDI%20icon%20spinoffs/circular-transparent.png" alt="IDI logo" width="120">
-    </td>
   </tr>
 </table>
 
